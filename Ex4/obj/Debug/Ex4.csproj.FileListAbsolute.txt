@@ -1,0 +1,7 @@
+C:\Users\Linali\source\repos\Ex4\Ex4\obj\Debug\Ex4.csprojResolveAssemblyReference.cache
+C:\Users\Linali\source\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Linali\source\repos\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\Linali\source\repos\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\Linali\source\repos\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\Linali\source\repos\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\Linali\source\repos\Ex4\Ex4\obj\Debug\Ex4.pdb
